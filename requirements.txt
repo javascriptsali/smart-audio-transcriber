@@ -1,0 +1,8 @@
+faster-whisper
+streamlit
+soundfile
+librosa
+pandas
+plotly
+numpy
+setuptools
