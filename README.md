@@ -219,7 +219,7 @@ Contributions, issues, and feature requests are welcome!
 
 **Saleh Bakhtyiari** — [Gmail](javascriptsali@gmail.com)
 
-Project Link: [https://github.com/javascriptsali@gmail.com/smart-audio-transcriber](https://github.com/YOUR_USERNAME/smart-audio-transcriber)
+Project Link: [https://github.com/javascriptsali/smart-audio-transcriber](https://github.com/YOUR_USERNAME/smart-audio-transcriber)
 
 ---
 
