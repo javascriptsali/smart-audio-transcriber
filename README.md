@@ -8,7 +8,7 @@
 
 > 🚀 **Local AI-powered audio transcription with full Persian and English support, built with Faster-Whisper**
 
-![Demo](https://smart-audio-transcriber-jmk4njamy5ujapp3yqcavc.streamlit.app/)
+## [Live Demo](https://smart-audio-transcriber-jmk4njamy5ujapp3yqcavc.streamlit.app/)
 
 ![100+ Languages](https://img.shields.io/badge/Languages-100+-purple)
 ![Privacy](https://img.shields.io/badge/Privacy-100%25%20Local-success)
